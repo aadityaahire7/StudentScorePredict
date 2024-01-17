@@ -9,7 +9,7 @@ This repository contains a Python script for a simple regression analysis using 
 
 # Follow the steps below to reproduce the analysis and visualize the results #
 
-# Prerequisites : Make sure you have the following libraries installed #
+# Prerequisites : Make sure you have the required libraries installed #
 
 
 1. Clone the repository:
